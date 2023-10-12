@@ -12,7 +12,7 @@ How to play:
  - The more you cross the path and jump obstacles - more points you gain. 
  - As you move and progress - speed/difficulty will be increased
 
-[**Lets have fun!**](https://shekhardesigner.github.io/spacebar/)
+[**Play here!**](https://absqueued.github.io/spacebar/)
 
 
 Credits
